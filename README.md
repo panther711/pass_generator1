@@ -1,4 +1,15 @@
-# Password-Generator
+# Password Generator
 
-This is simple password generator using javascript
+## Purpose
+Basic of javascipt password generator
 
+## Built With
+* HTML
+* CSS
+* JavaScript
+
+
+## Contribution
+Made with ❤️ by [Menderes Koc]
+
+### ©️2019 
