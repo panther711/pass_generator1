@@ -1,6 +1,7 @@
 
 *{
   box-sizing: border-box;
+  text-align: center;
 }
 
 body {
@@ -19,6 +20,33 @@ header {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+#password {
+  display: block;
+  width: 100%;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 85px;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px dashed #c0c7cf;
+  border-radius: 6px;
+  resize: none;
+}
+
+.btn {
+  border: none;
+  background-color: hsl(360, 91%, 36%);
+  border-radius: 25px;
+  color: hsl(0, 0%, 100%);
+  font-size: 22px;
+  line-height: 22px;
+  margin: 16px 16px 16px 20px;
+  padding: 14px 34px;
 }
 
 .card {
@@ -40,10 +68,6 @@ header {
   height: 2px;
 }
 
-.card-footer {
-  text-align: center;
-}
-
 .card-footer::before {
   content: " ";
   display: block;
@@ -52,32 +76,10 @@ header {
   height: 2px;
 }
 
-.btn {
-  border: none;
-  background-color: hsl(360, 91%, 36%);
-  border-radius: 25px;
-  color: hsl(0, 0%, 100%);
-  font-size: 22px;
-  line-height: 22px;
-  margin: 16px 16px 16px 20px;
-  padding: 14px 34px;
+.card-footer{
+  text-align: center;
 }
 
-#password {
-  display: block;
-  width: 100%;
-  padding-top: 15px;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 85px;
-  font-size: 1.2rem;
-  text-align: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
-  border-radius: 6px;
-  resize: none;
-}
 
 @media (max-width: 690px) {
   .btn {
