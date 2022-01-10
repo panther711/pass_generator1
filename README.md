@@ -10,7 +10,7 @@ Basic of javascript password generator, generate any time of password with it in
 
 ## Screenshot
 
-![alt text](assets/images/SSimages.png)
+![alt text](assets/images/ss-images.png)
 
 ## Website
 
