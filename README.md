@@ -10,11 +10,11 @@ Basic of javascript password generator, generate any time of password with it in
 
 ## Screenshot
 
-![alt text](assets/images/ss-website.png)
+![alt text](assets/images/SSimages.png)
 
 ## Website
 
-[This is a link to website](https://mendereskoc.github.io/Menderes-Koc-Portfolio/)
+[This is a link to website](https://mendereskoc.github.io/Password-Generator/)
 
 
 ## Some Link For Documentation HTML.CSS
