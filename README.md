@@ -9,7 +9,9 @@ Basic of javascript password generator, generate any time of password with it in
 * JavaScript
 
 ## Screenshot
+
 ![ScreenShot](/assets/images/images.png)
+
 ## Website
 
 [This is a link to website](https://mendereskoc.github.io/Password-Generator/)
