@@ -13,8 +13,8 @@ Basic of javascript password generator, generate any time of password with it in
 [This is a link to website](https://mendereskoc.github.io/Password-Generator/)
 
 ## Screenshot
-![ScreenShot](/assets/images/screenshot.png)
 
+![ScreenShot](/assets/images/screenshot.png)
 ## Some Link For Documentation HTML.CSS
 
 [W3C javasScript](https://www.w3schools.com/js/js_loop_for.asp)
@@ -28,4 +28,4 @@ Basic of javascript password generator, generate any time of password with it in
 ## Contribution
 Made with ❤️ by [Menderes Koc]
 
-### ©️2019 
+### ©️2022 
