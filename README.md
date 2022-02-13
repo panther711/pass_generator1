@@ -12,7 +12,7 @@ Basic of javascript password generator, generate any time of password with it in
 
 [click to website](https://mendereskoc.github.io/Password-Generator/)
 
-## Screenshot
+## Images
 
 ![ScreenShot](/assets/images/screenshot.png)
 
@@ -27,6 +27,7 @@ Basic of javascript password generator, generate any time of password with it in
 [W3C WAI](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 ## Contribution
+
 Made with ❤️ by [Menderes Koc]
 
 ### ©️2022 
