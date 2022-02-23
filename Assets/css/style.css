@@ -82,32 +82,18 @@ header {
 
 @media (max-width: 690px) {
   .btn {
-    font-size: 12px;
+    font-size: 1rem;
     margin: 16px 0px 0px 0px;
     padding: 10px 15px;
   }
 
   #password {
-    font-size: 15px;
-  }
-
-}
-
-@media (max-width: 870px) {
-  .btn {
-    font-size: 15px;
+    font-size: 1rem;
   }
 }
 
-
-@media (max-width: 1369px) {
+@media (max-width: 500px) {
   .btn {
-    font-size: 15px;
-    margin: 16px 0px 0px 0px;
-    padding: 7px 5px;
-  }
-
-  #password {
-    font-size: 15px;
+    font-size: 0.8rem;
   }
 }
