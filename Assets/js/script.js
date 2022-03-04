@@ -1,4 +1,4 @@
-var generateBtn = document.querySelector("#generate");
+var generateBtn = document.querySelector("#generate")
 function generatePassword() {
     //I DEFINED HOW MANY OF THESE CRITERIAS I WILL USE, IF CHOSEN .
     count_of_numeric = 2;
