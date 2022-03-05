@@ -14,7 +14,7 @@ Basic of javascript password generator, generate any time of password with it in
 
 ## Images
 
-![ScreenShot](/assets/images/Screenshot1.png)
+![ScreenShot](/assets/)
 
 ## Some Link For Documentation HTML.CSS
 
