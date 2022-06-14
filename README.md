@@ -11,7 +11,8 @@ Basic of javascript password generator, generate any time of password with it in
 - JavaScript
 
 ## Clone Repository
-- Git clone git@github.com:MenderesKoc/Password-Generator.git
+
+* Git clone git@github.com:MenderesKoc/Password-Generator.git
 
 ## Usage
 
